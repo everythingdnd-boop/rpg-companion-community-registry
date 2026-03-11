@@ -172,5 +172,16 @@
     "github_repo": "Violetwolf003-beep/Plague-doctor-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Plague-doctor-pack/",
     "has_system": false
+  },
+  {
+    "name": "Weapon-pack",
+    "description": "A pack of weapons.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Weapon-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Weapon-pack/",
+    "has_system": false
   }
 ]
