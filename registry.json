@@ -210,6 +210,18 @@
     "has_system": false
   },
   {
+    "name": "Zelda-Inspired-pack",
+    "description": "Races and items inspired by the legend of Zelda games.",
+    "tags": [
+      "5e",
+      "zelda"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Zelda-Inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Zelda-Inspired-pack/",
+    "has_system": false
+  },
+  {
     "name": "Balanced-Homebrew-Subclasses",
     "description": "Includes balanced, fun homebrew subclasses by me for Warlocks (2), Monks (2), Fighters (1) and Druids (1)!",
     "tags": [
