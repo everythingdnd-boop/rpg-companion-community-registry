@@ -392,4 +392,17 @@
     "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
     "has_system": false
   }
-]
+  {    
+    "name":  "grimhollow-player-guide",        
+    "description"  "The  custom  setting  for  fifth  edition",  
+    "tags":  [  
+      "5e2024",
+      "grimdark",
+      "fantasy"
+    ],
+      "stars" 0,
+      "github_repo": "mr80percent/GH-Complete.js",
+      "repo_url"  "https://gist.github.com/mr80percent/0a9101c96aeac1927d7529433c90d906",
+      "has_system": false
+  
+    
